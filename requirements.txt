@@ -1,0 +1,8 @@
+chromadb
+sentence-transformers
+langchain
+langchain-community
+langchain-text-splitters
+pypdf
+torch
+pymupdf4llm
