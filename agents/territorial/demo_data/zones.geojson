@@ -1,0 +1,7 @@
+{
+  "type":"FeatureCollection","name":"AREAS_TOTALMENTE_FICTICIAS_NAO_USAR_EM_CAMPO",
+  "features":[
+    {"type":"Feature","properties":{"zone_id":"DEMO-01","station_id":"WOKWI-RIO-01","neighborhood":"Bairro Demonstrativo A (fictício)","risk_class":"demo_high","threshold_level_cm":150,"mapping_method":"demonstration_threshold","mapping_source":"Catálogo didático fictício 2026"},"geometry":{"type":"Polygon","coordinates":[[[-47.063,-22.908],[-47.060,-22.908],[-47.060,-22.905],[-47.063,-22.905],[-47.063,-22.908]]]}},
+    {"type":"Feature","properties":{"zone_id":"DEMO-02","station_id":"WOKWI-RIO-01","neighborhood":"Bairro Demonstrativo B (fictício)","risk_class":"demo_medium","threshold_level_cm":210,"mapping_method":"demonstration_threshold","mapping_source":"Catálogo didático fictício 2026"},"geometry":{"type":"Polygon","coordinates":[[[-47.060,-22.908],[-47.057,-22.908],[-47.057,-22.905],[-47.060,-22.905],[-47.060,-22.908]]]}}
+  ]
+}

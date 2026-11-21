@@ -1,0 +1,7 @@
+{
+ "type":"FeatureCollection","name":"SETORES_CENSITARIOS_FICTICIOS",
+ "features":[
+  {"type":"Feature","properties":{"sector_id":"DEMO-SEC-1","population":240,"source":"Dados inteiramente sintéticos"},"geometry":{"type":"Polygon","coordinates":[[[-47.063,-22.909],[-47.060,-22.909],[-47.060,-22.905],[-47.063,-22.905],[-47.063,-22.909]]]}},
+  {"type":"Feature","properties":{"sector_id":"DEMO-SEC-2","population":360,"source":"Dados inteiramente sintéticos"},"geometry":{"type":"Polygon","coordinates":[[[-47.060,-22.909],[-47.057,-22.909],[-47.057,-22.905],[-47.060,-22.905],[-47.060,-22.909]]]}}
+ ]
+}

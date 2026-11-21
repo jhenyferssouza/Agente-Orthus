@@ -1,0 +1,7 @@
+{
+ "type":"FeatureCollection","name":"RUAS_FICTICIAS",
+ "features":[
+  {"type":"Feature","properties":{"street_id":"R1","name":"Rua Demonstrativa 1 (fictícia)"},"geometry":{"type":"LineString","coordinates":[[-47.063,-22.907],[-47.060,-22.907]]}},
+  {"type":"Feature","properties":{"street_id":"R2","name":"Rua Demonstrativa 2 (fictícia)"},"geometry":{"type":"LineString","coordinates":[[-47.059,-22.907],[-47.057,-22.907]]}}
+ ]
+}

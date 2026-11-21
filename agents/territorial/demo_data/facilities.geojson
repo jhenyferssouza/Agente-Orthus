@@ -1,0 +1,7 @@
+{
+ "type":"FeatureCollection","name":"EQUIPAMENTOS_FICTICIOS",
+ "features":[
+  {"type":"Feature","properties":{"facility_id":"F1","name":"Escola Demonstrativa (fictícia)","facility_type":"school"},"geometry":{"type":"Point","coordinates":[-47.061,-22.906]}},
+  {"type":"Feature","properties":{"facility_id":"F2","name":"UBS Demonstrativa (fictícia)","facility_type":"ubs"},"geometry":{"type":"Point","coordinates":[-47.059,-22.906]}}
+ ]
+}
